@@ -1,4 +1,0 @@
-SQL Bastos de datos Prueba Curso
-
-MySql Root contra: MySql2025@!
-
