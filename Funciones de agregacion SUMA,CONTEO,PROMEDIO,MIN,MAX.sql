@@ -14,13 +14,13 @@ select inventory_id + film_id + store_id from inventory;
 
 ======
 
-CONTEO -->  trae el conteo de los registros
+COUNT: CONTEO -->  trae el conteo de los registros
 
 select count(*) from actor
 
 ======
 
-PROMEDIO (avg) -->  saca el promedio de la Columna deseada
+AVG: PROMEDIO (avg) -->  saca el promedio de la Columna deseada
 
 select avg(amount)from payment;
 

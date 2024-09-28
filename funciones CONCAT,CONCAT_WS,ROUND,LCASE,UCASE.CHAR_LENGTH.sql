@@ -1,3 +1,5 @@
+
+
 FUNCION CHAR_LENGTH --> para saber la longitud de los registros de la columna
 
 
