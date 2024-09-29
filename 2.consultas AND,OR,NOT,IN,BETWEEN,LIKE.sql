@@ -55,7 +55,7 @@ where amount not between 5 and 9
 
 ===============================================================================
 
-El operador LIKE se usa para ubscar un patron especifico de una columna (en este caso busca la primera letra de first_name y de last_name )
+El operador LIKE se usa para buscar un patron especifico de una columna (en este caso busca la primera letra de first_name y de last_name )
 
 select * from actor
 where first_name like 'A%' and last_name like 'B%';

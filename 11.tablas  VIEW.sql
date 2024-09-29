@@ -1,4 +1,4 @@
-TABLAS TEMPORALES VIEW
+TABLAS VIEW
 
 create view ingresos_por_genero as --> crea la tabla temporal
 
